@@ -15,7 +15,6 @@ export function UserMenu() {
   const { user, logout } = useAuth();
 
   if (!user) return null;
-
   // Function to get role icon and color it with out needs........
   const getRoleDetails = (role: string) => {
     switch (role) {
