@@ -7,7 +7,7 @@ A comprehensive Human Resource Management System built with React and TypeScript
 Check out the live application: [HR Performance Dashboard](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/hr_performance_dashboard)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/hr_dashboard)
 
 ## 🚀 Features
 
@@ -53,8 +53,8 @@ Check out the live application: [HR Performance Dashboard](https://hr-dashboard-
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ashirvaddubey/hr_performance_dashboard.git
-cd hr_performance_dashboard
+git clone https://github.com/Ashirvaddubey/hr_dashboard.git
+cd hr-dashboard
 ```
 
 2. Install dependencies:
