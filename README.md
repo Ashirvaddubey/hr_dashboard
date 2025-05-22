@@ -143,4 +143,35 @@ vercel login
 ```
 
 3. Deploy:
+```bash
+vercel --prod
 ```
+
+## 📈 Performance Optimizations
+
+- React Query for efficient data fetching
+- Image optimization
+- Code splitting
+- Lazy loading of components
+- Nginx caching configuration
+- Gzip compression
+
+## 👥 Author
+
+Ashirvad Dubey
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+### 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
+
+For any questions or issues, please open an issue in the repository.
