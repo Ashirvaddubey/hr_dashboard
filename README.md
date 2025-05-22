@@ -4,9 +4,9 @@ A comprehensive Human Resource Management System built with React and TypeScript
 
 ## 🌐 Live Demo
 
-Check out the live application: [HR Dashboard](https://hr-dashboard-6q1cbjnsa-ashirvaddubeys-projects.vercel.app)
+Check out the live application: [HR Dashboard](https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-6q1cbjnsa-ashirvaddubeys-projects.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/HR-Dashboard)
 
 ## 🚀 Features
@@ -128,7 +128,7 @@ hr-dashboard/
 ## 🚀 Deployment
 
 The application is deployed on Vercel and can be accessed at:
-[https://hr-dashboard-6q1cbjnsa-ashirvaddubeys-projects.vercel.app](https://hr-dashboard-6q1cbjnsa-ashirvaddubeys-projects.vercel.app)
+[https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app](https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app)
 
 ### Manual Deployment
 
