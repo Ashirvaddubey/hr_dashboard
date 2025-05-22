@@ -6,7 +6,7 @@ const enhanceEmployeeData = (employees: any[]): Employee[] => {
   const departments = ['Engineering', 'Sales', 'Marketing', 'Product', 'Design', 'HR', 'Finance'];
   
   return employees.map(employee => {
-    // Generate random performance data
+    // Genrate random performance data
     const performance = {
       rating: Math.floor(Math.random() * 5) + 1,
       projects: Math.floor(Math.random() * 10) + 1,
