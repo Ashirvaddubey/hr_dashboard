@@ -1,13 +1,13 @@
-# HR Dashboard
+# HR Performance Dashboard
 
 A comprehensive Human Resource Management System built with React and TypeScript, featuring a modern UI and extensive employee management capabilities.
 
 ## 🌐 Live Demo
 
-Check out the live application: [HR Dashboard](https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app)
+Check out the live application: [HR Performance Dashboard](https://hr-dashboard-4jygkutdz-ashirvaddubeys-projects.vercel.app)
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/HR-Dashboard)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-4jygkutdz-ashirvaddubeys-projects.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/hr_performance_dashboard)
 
 ## 🚀 Features
 
@@ -53,8 +53,8 @@ Check out the live application: [HR Dashboard](https://hr-dashboard-m2juhy7d7-as
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ashirvaddubey/HR-Dashboard.git
-cd hr-dashboard
+git clone https://github.com/Ashirvaddubey/hr_performance_dashboard.git
+cd hr_performance_dashboard
 ```
 
 2. Install dependencies:
@@ -91,7 +91,7 @@ docker-compose up
 ## 🏗️ Project Structure
 
 ```
-hr-dashboard/
+hr_performance_dashboard/
 ├── src/
 │   ├── components/         # Reusable UI components
 │   │   ├── employee/      # Employee-related components
@@ -128,7 +128,7 @@ hr-dashboard/
 ## 🚀 Deployment
 
 The application is deployed on Vercel and can be accessed at:
-[https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app](https://hr-dashboard-m2juhy7d7-ashirvaddubeys-projects.vercel.app)
+[https://hr-dashboard-4jygkutdz-ashirvaddubeys-projects.vercel.app](https://hr-dashboard-4jygkutdz-ashirvaddubeys-projects.vercel.app)
 
 ### Manual Deployment
 
@@ -143,35 +143,4 @@ vercel login
 ```
 
 3. Deploy:
-```bash
-vercel --prod
 ```
-
-## 📈 Performance Optimizations
-
-- React Query for efficient data fetching
-- Image optimization
-- Code splitting
-- Lazy loading of components
-- Nginx caching configuration
-- Gzip compression
-
-## 👥 Author
-
-Ashirvad Dubey
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-### 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
-
-For any questions or issues, please open an issue in the repository.
