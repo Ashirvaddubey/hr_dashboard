@@ -1,6 +1,6 @@
 # HR Performance Dashboard
 
-A comprehensive Human Resource Management System built with React and TypeScript, Next.js featuring a modern UI and extensive employee management capabilities.
+A comprehensive Human Resource Management System built with React and TypeScript, featuring a modern UI and extensive employee management capabilities.
 
 ## 🌐 Live Demo
 
@@ -8,103 +8,6 @@ Check out the live application: [HR Performance Dashboard](https://hr-dashboard-
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/hr_dashboard)
-
-## 📸 Screenshots
-
-### Theme Support - Dark Mode
-![Dark Mode](./images/dark-mode.png)
-
-Features shown:
-- Elegant dark theme interface
-- High contrast text and elements
-- Accessible color scheme
-- Seamless theme integration
-- Preserved functionality in dark mode
-- Role badges with optimized visibility
-- Performance ratings with dark theme compatibility
-- Consistent branding and UI elements
-- Easy on the eyes for extended use
-- System theme preference detection
-
-### Analytics Dashboard
-![Analytics Dashboard](./images/analytics-dashboard.png)
-
-Features shown:
-- Key performance metrics overview
-  - Total Employees count
-  - Bookmarked Employees
-  - Average Rating across organization
-- Department Performance visualization
-- Bookmark Trends over time graph
-- Department Breakdown table with:
-  - Employee counts per department
-  - Average ratings
-  - Visual rating indicators
-- Interactive charts and graphs
-- Performance insights and trends
-- Detailed departmental statistics
-
-### Login Page
-![Login Page](./images/login-page.png)
-
-Demo accounts:
-- Admin: admin / admin123
-- User: user / user123
-- HR: hr / hr123
-
-### Employee Management
-![Employee Management](./images/employee-management.png)
-
-Features shown:
-- Employee grid layout with detailed information
-- Performance ratings visualization
-- Department filtering
-- Quick actions for each employee
-- Role badges (Lead, Associate, Senior, Manager)
-- Search functionality
-- Add Employee button
-- Department-wise organization
-
-### Employee Profile
-![Employee Profile](./images/employee-profile.png)
-
-Features shown:
-- Detailed contact information
-- Professional profile picture
-- Performance metrics visualization
-- Projects completion rate
-- Overall rating system
-- Department and position details
-- Professional background/bio
-- Promotion and bookmarking options
-- Tabbed interface (Overview, Projects, Feedback)
-
-### Project Assignments
-![Project Assignments](./images/project-assignments.png)
-
-Features shown:
-- Current and past projects listing
-- Project completion progress bars
-- Project status indicators (In Progress, Completed, Planned)
-- Role assignments for each project
-- Project titles and descriptions
-- Visual progress tracking
-- Back to Dashboard navigation
-- Project completion percentages
-
-### Bookmarked Employees
-![Bookmarked Employees](./images/bookmarked-employees.png)
-
-Features shown:
-- Quick access to bookmarked employees
-- Department and rating filters
-- Performance ratings display
-- Employee role indicators (Associate, Senior)
-- Department categorization
-- Email and contact information
-- Quick action buttons
-- Bookmark count tracking
-- Performance metrics at a glance
 
 ## 🚀 Features
 
@@ -188,7 +91,7 @@ docker-compose up
 ## 🏗️ Project Structure
 
 ```
-hr_performance_dashboard/
+hr-dashboard/
 ├── src/
 │   ├── components/         # Reusable UI components
 │   │   ├── employee/      # Employee-related components
