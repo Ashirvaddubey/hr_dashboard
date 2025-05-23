@@ -8,13 +8,11 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { FilterOptions } from "@/types/employee";
-
 interface EmployeeFiltersProps {
   filters: FilterOptions;
   setFilters: React.Dispatch<React.SetStateAction<FilterOptions>>;
   departments: string[];
 }
-
 export function EmployeeFilters({
   filters,
   setFilters,
@@ -40,7 +38,7 @@ export function EmployeeFilters({
           ))}
         </SelectContent>
       </Select>
-      
+
       <Select
         value={filters.minRating.toString()}
         onValueChange={(value) =>
