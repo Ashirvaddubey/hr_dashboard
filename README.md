@@ -32,6 +32,11 @@ Check out the live application: [HR Performance Dashboard](https://hr-dashboard-
   - Intuitive navigation
   - Toast notifications for user feedback
 
+ 
+- **Screeshot
+- ![{8DA85D16-AA35-44EC-990C-BE74F035E1EA}](https://github.com/user-attachments/assets/d7491525-a9df-4490-9884-43dcfcfe8442)
+
+
 ## 🛠️ Technology Stack
 
 - **Frontend Framework**: React 18+ with TypeScript
