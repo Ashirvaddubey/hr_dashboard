@@ -1,6 +1,6 @@
 # HR Performance Dashboard
 
-A comprehensive Human Resource Management System built with React and TypeScript, featuring a modern UI and extensive employee management capabilities.
+A comprehensive Human Resource Management System built with React and TypeScript, Next.js featuring a modern UI and extensive employee management capabilities.
 
 ## 🌐 Live Demo
 
