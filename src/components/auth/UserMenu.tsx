@@ -10,10 +10,8 @@ import {
 } from "@/components/ui/dropdown-menu";
 import { LogOut, User, ShieldCheck, ShieldAlert, Users } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
-
 export function UserMenu() {
   const { user, logout } = useAuth();
-
   if (!user) return null;
   // Function to get role icon and color it with out needs........
   const getRoleDetails = (role: string) => {
@@ -26,9 +24,7 @@ export function UserMenu() {
         return { icon: <User className="h-4 w-4" />, color: "bg-slate-500" };
     }
   };
-
   const roleDetails = getRoleDetails(user.role);
-
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
