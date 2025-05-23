@@ -33,8 +33,23 @@ Check out the live application: [HR Performance Dashboard](https://hr-dashboard-
   - Toast notifications for user feedback
 
  
-- **Screeshot
+- **Screeshot**
+- *login*
 - ![{8DA85D16-AA35-44EC-990C-BE74F035E1EA}](https://github.com/user-attachments/assets/d7491525-a9df-4490-9884-43dcfcfe8442)
+- *HR Dashboard*
+- ![{7AE56A5B-6E15-4908-BB54-517E3E7DB540}](https://github.com/user-attachments/assets/007ab28b-12e5-4f6f-8763-9cd36e52babb)
+- *Bookmark*
+- ![{54C48F84-6E2B-4FE5-B261-56012D64D6EC}](https://github.com/user-attachments/assets/7285467d-7a8b-48c6-8648-035085dacdfa)
+- *Analytics*
+- ![{A1CE16F1-183C-43B2-BE6B-8D7058DF2481}](https://github.com/user-attachments/assets/037ba732-bf61-45c7-8a72-ed47c70015f2)
+- *Dark mode*
+- ![{331BED4F-7004-44E9-BA9F-6542A08FD4D7}](https://github.com/user-attachments/assets/5c8bbf4c-e667-4061-9d1b-b29b46d64247)
+- *Pagination,sorting,filtering*
+- ![{91F0C48E-F9E0-4EE6-B138-B21B3A10EB90}](https://github.com/user-attachments/assets/3f92950c-6b94-42b8-908c-88cdf69d02b0)
+- *Emplyees detail for HR where Overview,Projects of employee and feedback screenshot*
+- ![{5A78160E-C57B-400F-AD55-6CB7B5B32E2A}](https://github.com/user-attachments/assets/d6c03f82-5cfc-4f86-8879-cd156d8f0d71)
+- ![{E249D2CD-E7DE-4F21-8E10-1BEC3ACE15EA}](https://github.com/user-attachments/assets/e086701f-c787-430c-827f-84054c5272a6)
+- ![{D8D1B6A7-103E-4596-B61B-D4BEB576BC24}](https://github.com/user-attachments/assets/6f8f9ea6-3c3e-466e-8603-eaca95762be6)
 
 
 ## 🛠️ Technology Stack
