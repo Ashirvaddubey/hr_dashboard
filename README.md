@@ -33,7 +33,7 @@ Check out the live application: [HR Performance Dashboard](https://hr-dashboard-
   - Toast notifications for user feedback
 
  
-- **Screeshot**
+- **Screenshot**
 - *login*
 - ![{8DA85D16-AA35-44EC-990C-BE74F035E1EA}](https://github.com/user-attachments/assets/d7491525-a9df-4490-9884-43dcfcfe8442)
 - *HR Dashboard*
