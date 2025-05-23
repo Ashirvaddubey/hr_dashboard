@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
@@ -7,7 +6,6 @@ import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { useTheme } from "@/context/ThemeContext";
 import { cn } from "@/lib/utils";
-
 interface NavigationItem {
   name: string;
   href: string;
@@ -19,12 +17,10 @@ const navigation: NavigationItem[] = [
   { name: "Bookmarks", href: "/bookmarks", icon: Bookmark },
   { name: "Analytics", href: "/analytics", icon: BarChart3 },
 ];
-
 export default function Layout({ children }: { children: React.ReactNode }) {
   const { theme, setTheme } = useTheme();
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const { pathname } = useLocation();
-
   return (
     <div className="flex h-screen overflow-hidden bg-background">
       {/* Sidebar for desktop */}
@@ -76,7 +72,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           </div>
         </div>
       </div>
-
       {/* Mobile menu */}
       <div className="md:hidden">
         <div className="fixed top-0 left-0 right-0 z-40 flex items-center justify-between px-4 py-2 bg-card border-b">
@@ -151,7 +146,6 @@ export default function Layout({ children }: { children: React.ReactNode }) {
         </div>
         <div className="pt-14"></div> {/* Space for fixed header */}
       </div>
-
       {/* Main content */}
       <div className="md:pl-64 flex flex-col flex-1">
         <main className="flex-1 overflow-y-auto scrollbar-hide pb-10">
