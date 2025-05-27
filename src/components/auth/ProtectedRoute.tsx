@@ -1,4 +1,4 @@
-//  import { useEffect } from "react";
+import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { useAuth } from "@/context/AuthContext";
 
@@ -6,6 +6,7 @@ interface ProtectedRouteProps {
   children: React.ReactNode;
   allowedRoles?: string[];
 }
+
 const ProtectedRoute: React.FC<ProtectedRouteProps> = ({ 
   children, 
   allowedRoles = [] 

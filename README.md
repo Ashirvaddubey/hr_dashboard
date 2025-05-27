@@ -4,9 +4,18 @@ A comprehensive Human Resource Management System built with React and TypeScript
 
 ## 🌐 Live Demo
 
-Check out the live application: [HR Performance Dashboard](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
+The application is deployed on both Vercel and GitHub Pages:
+
+### Vercel Deployment
+Check out the live application on Vercel: [HR Performance Dashboard on Vercel](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg?style=flat-square&logo=vercel)](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
+
+### GitHub Pages Deployment
+Alternative deployment on GitHub Pages: [HR Performance Dashboard on GitHub Pages](https://ashirvaddubey.github.io/hr_dashboard/)
+
+[![Deployed on GitHub Pages](https://img.shields.io/badge/Deployed%20on-GitHub%20Pages-blue.svg?style=flat-square&logo=github)](https://ashirvaddubey.github.io/hr_dashboard/)
+
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-green.svg?style=flat-square&logo=github)](https://github.com/Ashirvaddubey/hr_dashboard)
 
 ## 🚀 Features
@@ -127,11 +136,19 @@ hr-dashboard/
 
 ## 🚀 Deployment
 
-The application is deployed on Vercel and can be accessed at:
+The application is deployed on both Vercel and GitHub Pages:
+
+### Vercel Deployment
+The primary deployment is hosted on Vercel and can be accessed at:
 [https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app](https://hr-dashboard-i760u78s7-ashirvaddubeys-projects.vercel.app)
+
+### GitHub Pages Deployment
+An alternative deployment is available on GitHub Pages at:
+[https://ashirvaddubey.github.io/hr_dashboard/](https://ashirvaddubey.github.io/hr_dashboard/)
 
 ### Manual Deployment
 
+#### For Vercel:
 1. Install Vercel CLI:
 ```bash
 npm install -g vercel
@@ -146,6 +163,14 @@ vercel login
 ```bash
 vercel --prod
 ```
+
+#### For GitHub Pages:
+1. Build and deploy:
+```bash
+npm run deploy
+```
+
+This will automatically build the project and deploy it to the gh-pages branch.
 
 ## 📈 Performance Optimizations
 
